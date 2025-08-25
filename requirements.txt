@@ -1,0 +1,22 @@
+# Core scientific stack
+numpy==1.25.2
+pandas==2.2.2
+scipy==1.11.4
+matplotlib==3.8.0
+
+# Machine learning and filtering
+scikit-learn==1.2.2
+filterpy==1.4.5
+
+# Computer vision
+opencv-python==4.9.0.80
+
+# PyTorch + torchvision (compatible versions)
+torch==2.2.1
+torchvision==0.17.0
+
+# Ultralytics YOLOv8
+ultralytics==8.3.0
+
+# Typing fix
+typing_extensions==4.11.0
